@@ -4,16 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs, TypeScript**
+- 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me **lexuantan159@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/lexuantan159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lexuantan159" height="30" width="40" /></a>
-</p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
